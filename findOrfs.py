@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Name: Dami Ibrahim(oaibrahi)
-# Group Members: None (help from Siddish tutoring session)
+# Group Members: None
 from sequenceAnalysis import FastAreader
 from sequenceAnalysis import OrfFinder
 ''' 
